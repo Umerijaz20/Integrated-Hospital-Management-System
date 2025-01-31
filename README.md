@@ -51,5 +51,23 @@ The Integrated Hospital Management System (IHMS) represents an innovative approa
   Database: SQLite
   
   Frontend: HTML, CSS, JavaScript
+
+**Usage**
+
+Sign up or log in to access features.
+
+Explore available hospitals, doctors, labs, and pharmacies.
+
+Book appointments, order medicines, or request lab tests.
+
+Admin can manage users, hospitals, and system-wide operations.
+
+**Future Enhancements**
+
+Implementing payment gateway integration for online payments.
+
+Adding real-time notifications for appointment reminders and order tracking.
+
+Expanding user roles and permissions for better access control.
   
-  Authentication: Django authentication system
+**Authentication:** Django authentication system
