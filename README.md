@@ -5,10 +5,15 @@ The Integrated Hospital Management System (IHMS) represents an innovative approa
 **For Patients:**
 
   View available hospitals, doctors, laboratories, and pharmacies.
+  
   Register and create a patient profile.
+  
   Book and cancel doctor appointments.
+  
   Order medicines from pharmacies.
+  
   Request sample collection for lab tests.
+  
   View test reports online.
 
 **For Hospital Owners:**
